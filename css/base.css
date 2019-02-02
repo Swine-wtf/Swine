@@ -2185,26 +2185,6 @@ img[src="/assets/5fb477ca84edd15d9a2888ac28365acd.svg"] {
     border-radius:50px !important;
 }
 
-/*9.u Changelog*/
-#bd-settingspane-container .bda-slist::before {
-  content:"What's new in Aurora v1.2.x?\A -Animated Icons! \A -Several new addons.\A-Status Picker Redesign.\A -Support for var(--media-roundness) on Search Bubble.\A-Compatibility Tags for Themes & Plugins\A -Reply System, Permissions Viewer, DetailedSeverTooltips and StatusEverywhere are now themed!";
-  display: block;
-  line-height:22px;
-  font-size:18px;
-  position: relative;
-  background: var(--main-color);
-  padding: 10px 15px;
-  white-space: pre;
-  margin-bottom: 15px;
-  border-radius: 4px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.4);
-  font-weight: 500;
-  margin-top:-10px;
-  color: #fff;
-  text-transform: none;
-  overflow:hidden;
-  width:fit-content;
-}
 /*============== END OF SECTION ============== */
 
 /*10. Tag Animations*/
